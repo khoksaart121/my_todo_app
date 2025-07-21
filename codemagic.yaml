@@ -57,11 +57,6 @@ workflows:
         submit_to_testflight: true
         beta_groups:
           - App Store Connect Users
-        beta_build_localizations:
-          - locale: DEFAULT
-            whats_new: |
-              - Bug fixes and improvements
-              - New todo management features
         
         # Configuration for App Store (uncomment when ready)
         # submit_to_app_store: true
