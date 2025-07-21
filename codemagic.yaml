@@ -16,7 +16,7 @@ workflows:
         BUNDLE_ID: "com.snjinter.mytodoapp"
         XCODE_WORKSPACE: "Runner.xcworkspace"
         XCODE_SCHEME: "Runner"
-        APP_ID: 1234567890 # จะได้จาก App Store Connect
+        APP_ID: 6748906789 # จะได้จาก App Store Connect
     scripts:
       - name: Set up code signing settings on Xcode project
         script: |
